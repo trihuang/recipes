@@ -1,1 +1,1 @@
-# recipes
+An exercise in HTML to create a simple recipe website.
