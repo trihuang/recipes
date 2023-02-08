@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: coral;
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.container {
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 16px;
+}
