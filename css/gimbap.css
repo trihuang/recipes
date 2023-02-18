@@ -1,0 +1,39 @@
+body {
+    background-color: coral;
+}
+
+.card {
+    border: 10px double black;
+    background-color: white;
+    width: 75%;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+.header {
+    width: 600px;
+    height: 600px;
+    background-image: url(../images/gimbap.jpeg);
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.text {
+    padding: 0 30px;
+}
+
+a {
+    margin: 35px;
+    font-size: 18px;
+}
